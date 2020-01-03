@@ -1,0 +1,19 @@
+body
+{
+background:green
+}
+h2
+{font-family:comic sans ms text;
+background-color:white;
+}
+table
+{background:white
+}
+.td {
+font-weight:bold;
+}
+.dashed
+{
+border-style:dashed;
+border-color:pink;
+}
